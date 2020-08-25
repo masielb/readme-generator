@@ -22,4 +22,4 @@ In order to test this program, use the following command:
 <code>node index.js</code>
 
 ## Application Demo
-* [Application Demo](readme.gif)
+! [Application Demo](readme.gif)
